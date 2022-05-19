@@ -63,7 +63,7 @@ function App() {
             </p>
           </div>
           <div>
-            <p className="source-1">Source: <a href="https://ajph.aphapublications.org/doi/10.2105/AJPH.2018.304403">
+            <p className="source-1">Source: <a href="https://ajph.aphapublications.org/doi/10.2105/AJPH.2018.304403" target="_blank">
               “Firearm Ownership, Storage Practices, and Suicide Risk Factors in Washington State, 2013–2016”</a>
             </p>
           </div>
@@ -76,7 +76,7 @@ function App() {
             <p className="row-4-p">Specifically, three in ten children in Washington State reside in a home with a firearm.</p>
           </div>
           <div>
-            <p className="source-4">Source: <a href="https://ajph.aphapublications.org/doi/10.2105/AJPH.2018.304403">
+            <p className="source-4">Source: <a href="https://ajph.aphapublications.org/doi/10.2105/AJPH.2018.304403" target="_blank">
               “Firearm Ownership, Storage Practices, and Suicide Risk Factors in Washington State, 2013–2016”</a>
             </p>
           </div>
@@ -104,7 +104,7 @@ function App() {
               <b> That's nearly 900 people per year.</b>
             </p>
           </div>
-          <p className="source-5">Source: <a href="https://wisqars.cdc.gov/data/explore-data/home">
+          <p className="source-5">Source: <a href="https://wisqars.cdc.gov/data/explore-data/home" target="_blank">
             “WISQARS, Fatal Injury Reports, National, Regional and State”</a>
           </p>
         </div>
@@ -121,7 +121,7 @@ function App() {
             <p>Firearm-related injuries are now the leading cause of death for minors.</p>
           </div>
           <div>
-            <p className="source-3">Source: <a href="https://www.nejm.org/doi/full/10.1056/NEJMc2201761">
+            <p className="source-3">Source: <a href="https://www.nejm.org/doi/full/10.1056/NEJMc2201761" target="_blank">
               “Current Causes of Death in Children and Adolescents in the United States”</a>
             </p>
           </div>
@@ -148,7 +148,7 @@ function App() {
           <p>of those youth suicides were caused by firearms that were stored <b>unlocked</b>.</p>
         </div>
         <div>
-          <p className="source-7">Source: <a href="https://www.hsph.harvard.edu/means-matter/means-matter/youth-access/">
+          <p className="source-7">Source: <a href="https://www.hsph.harvard.edu/means-matter/means-matter/youth-access/" target="_blank">
             “Harvard School of Public Health: Youth Access to Firearms”</a>
           </p>
         </div>
@@ -170,7 +170,7 @@ function App() {
             </p>
           </div>
           <div>
-            <p className="source-6">Source: <a href="https://ajph.aphapublications.org/doi/10.2105/AJPH.2018.304403">
+            <p className="source-6">Source: <a href="https://ajph.aphapublications.org/doi/10.2105/AJPH.2018.304403" target="_blank">
               “Firearm Ownership, Storage Practices, and Suicide Risk Factors in Washington State, 2013–2016”</a>
             </p>
           </div>
@@ -183,7 +183,7 @@ function App() {
             <p className="stat-8">If <b>253,055 children</b> are living with an unsafely stored gun, are we really protecting them?</p>
           </div>
           <div>
-            <p className="source-8">Source: <a href="https://jamanetwork.com/journals/jamapediatrics/article-abstract/2714389">
+            <p className="source-8">Source: <a href="https://jamanetwork.com/journals/jamapediatrics/article-abstract/2714389" target="_blank">
               “Firearm Storage and Adult Alcohol Misuse Among Washington State Household with Children”</a>
             </p>
           </div>
