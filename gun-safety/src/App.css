@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: 'Raleway';
 }
 
 .App-logo {
@@ -14,7 +15,6 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -36,3 +36,404 @@
     transform: rotate(360deg);
   }
 }
+
+p {
+  color: #647532;
+  /* width: 40rem; */
+  font-size: 24px;
+}
+
+.features-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-4 {
+  width: 700px;
+}
+
+.anim {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  padding-right: 2rem;
+}
+
+.row-1-p {
+  padding-left: 5rem;
+  padding-top: 10rem;
+}
+
+.row-2-p {
+  padding-right: 5rem;
+}
+
+.row-3-p {
+  padding-right: 8rem;
+}
+
+.row-4-p {
+  padding-left: 8rem;
+}
+
+.row-3-p, .row-4-p {
+  width: 30rem;
+}
+
+.row-6-p {
+  padding-left: 2rem;
+}
+
+.story-content {
+  font-size: 30px;
+}
+
+.filler {
+  height: 500px;
+  background-color: gray;
+}
+
+.story-content {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+/* .section {
+  padding: 1rem 5rem;
+  margin: 5rem 2rem;
+  background-color: #ECF3D6;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+} */
+
+.section {
+  margin: 3rem 3rem;
+  padding: 15rem;
+  background-color: #ECF3D6;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.anim-row-1 {
+  padding: 4rem;
+  /* width: 1050px; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
+  background-color: #ECF3D6;
+  margin: 3rem;
+}
+
+.anim-row-2 {
+  padding: 4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
+  margin: 3rem;
+}
+
+.anim-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
+  background-color: #ECF3D6;
+  margin: 3rem;
+  margin-top: 0rem;
+}
+
+.section-title {
+  font-weight: bold;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-title-3 {
+  padding-top: 10rem;
+  font-weight: bold;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-title-5 {
+  padding-top: 5rem;
+  font-weight: bold;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-title-6 {
+  padding-top: 2rem;
+  font-weight: bold;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.section > p {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-para {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-para-1 {
+  display: flex;
+  text-align: left;
+  justify-content: center;
+  align-items: left;
+  width: 70rem;
+}
+
+.section-5-p {
+  padding-left: 2rem;
+}
+
+.stat-box-1, .stat-box {
+  background-color: #ECF3D6;
+  margin: 3rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  padding-bottom: 1rem;
+}
+
+.stat-1 {
+  display: flex;
+  text-align: left;
+  justify-content: center;
+  align-items: left;
+}
+
+.stat-2, .stat-3 {
+  display: flex;
+  text-align: left;
+  justify-content: center;
+  align-items: center;
+}
+
+.num-1, .num-2 {
+  padding-right: 20px;
+  font-size: 72px;
+  font-weight: bold;
+}
+
+.num-1 {
+  margin-top: 2rem;
+  margin-bottom: 0;
+}
+
+.num-2 {
+  margin-top: 0;
+  margin-bottom: 2rem;
+}
+
+.source-1 {
+  padding-top: 10rem;
+  padding-left: 4rem;
+  text-align: center;
+  font-size: 12px;
+}
+
+.source-3 {
+  text-align: center; 
+  font-size: 10px;
+  padding-right: 2rem;
+  padding-top: 8rem;
+}
+
+
+.source-4 {
+  padding-left: 6rem;
+  text-align: center;
+  font-size: 10px;
+}
+
+.source-5 {
+  padding-top: 10rem;
+  text-align: center;
+  font-size: 12px;
+}
+
+.source-6 {
+  text-align: center;
+  font-size: 12px;
+  padding-top: 5rem;
+}
+
+.source-7 {
+  text-align: center;
+  font-size: 12px;
+}
+
+.source-8 {
+  text-align: center;
+  font-size: 12px;
+}
+
+.source-10 {
+  text-align: center;
+  padding-right: 7rem;
+  font-size: 12px;
+}
+
+.source {
+  text-align: center;
+  font-size: 12px;
+}
+
+.stat-8 {
+  font-size: 30px;
+}
+
+@media screen and (max-width: 768px) {
+  .App {
+    text-align: center;
+    font-family: 'Raleway';
+    /* background-color: lightcoral; */
+  }
+
+  h1 {
+    text-align: center;
+    padding: 1rem;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+  }
+
+  img {
+    width: 100%;
+    /* display: none; */
+  }
+
+  .img-4 {
+    width: 100%;
+  }
+
+  .plot {
+    display: none;
+  }
+
+  p {
+    font-size: 24px;
+  }
+
+  .anim-row {
+    flex-direction: column-reverse;
+    margin: 0;
+    padding: 3rem;
+    padding-top: 0;
+  }
+
+  .anim-row-1 {
+    flex-direction: column;
+    margin: 0;
+    padding: 3rem;
+  }
+
+  .anim-row-2 {
+    flex-direction: column-reverse;
+    margin: 0;
+  }
+
+  .source, .source-1, .source-3, .source-4, .source-5, .source-6, .source-7, .source-8, .source-10 {
+    font-size: 10px;
+  }
+
+  .source-1, .source-3, .source-4, .source-5, .source-6, .source-8 {
+    padding: 0;
+  }
+
+  .source-8 {
+    margin: 0;
+  }
+
+  .source-3, .div-img2 {
+    padding-bottom: 6rem;
+  }
+
+  .source-5 {
+    padding-bottom: 5rem;
+  }
+
+  .stat-2, .stat-3 {
+    flex-direction: column;
+  }
+
+  .stat-2 > p, .stat-3 > p {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+
+  .stat-2 {
+    padding-top: 1rem;
+  }
+
+  .num-2, .num-1 {
+    text-align: center;
+    padding: 0;
+    font-size: 48px;
+  }
+
+  .row-1-p {
+    padding: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .row-4-p {
+    width: 100%;
+    padding: 0;
+  }
+
+  .row-6-p {
+    padding: 0;
+  }
+
+  .anim {
+    padding: 0;
+  }
+
+  .section-5-p {
+    padding: 0;
+  }
+
+  .section-title-3 {
+    padding-top: 5rem;
+  }
+
+  .row-8 {
+    padding: 1rem;
+  }
+}
+
+
+/* colors */
+/* light green: ECF3D6
+  green: B2CD62
+  peach: FFCDA8
+  orange: E2925F
+*/
